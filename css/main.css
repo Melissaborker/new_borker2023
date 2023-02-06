@@ -26,6 +26,7 @@ body {
   color: var(--mainBlack);
   background: var(--mainWhite);
   font-family: "Mali", cursive;
+  display: none;
 }
 
 .section_header{
